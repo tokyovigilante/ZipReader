@@ -1,0 +1,5 @@
+module CMinizip {
+    umbrella header "cminizip.h"
+    export *
+    link "minizip"
+}
